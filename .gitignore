@@ -1,3 +1,6 @@
-curriculum*
-!curriculum.pdf
-resume.cls
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!english.pdf
