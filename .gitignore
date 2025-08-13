@@ -4,4 +4,6 @@
 # But not these files...
 !.gitignore
 !english.pdf
+!english.tex
+!spanish.tex
 !spanish.pdf
